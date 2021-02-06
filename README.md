@@ -3,7 +3,7 @@
 </h1>
 
 [LinkedIn](https://www.linkedin.com/in/sergiomos/) 
-[Instagram](https://www.linkedin.com/in/sergiomos/) 
+[Instagram](https://www.instagram.com/sergio_mdo/) 
 
 ---
 
