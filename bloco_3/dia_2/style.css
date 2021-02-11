@@ -1,0 +1,36 @@
+body {
+  font-size: 16px;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 65px;
+  color: orange;
+}
+
+p {
+  font-weight: 600;
+  font-size: 3em;
+  font-style: italic;
+  text-decoration: overline;
+}
+
+ul {
+  background-color: orchid;
+}
+
+.bg-change {
+  background-color: palegoldenrod;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.red {
+  background-color: red;
+}
+
+.brown {
+  background-color: brown;
+}
