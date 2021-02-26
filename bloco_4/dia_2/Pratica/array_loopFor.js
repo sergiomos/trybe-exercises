@@ -61,3 +61,11 @@ for(let indexMenor = 0; indexMenor < numbers.length; indexMenor += 1) {
 } 
 
 console.log('Temos ' + quantosImpares + ' numeros impares')
+
+// 8. Utilizando for , crie uma array que vá de 1 até 25 e imprima o resultado
+let newArray = []
+for(let numberOfElements = 1; numberOfElements <= 25; numberOfElements += 1 ) {
+  newArray.push(numberOfElements)
+}
+
+console.log(newArray)
