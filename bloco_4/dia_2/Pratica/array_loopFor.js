@@ -11,3 +11,7 @@ for(let indexSoma = 0; indexSoma < numbers.length; indexSoma += 1){
 }
 
 console.log('A soma dos termos é igual a: ' + soma)
+
+let mediaAritmetica = soma / numbers.length;
+
+console.log('A média aritmética é igual a: ' + mediaAritmetica)
