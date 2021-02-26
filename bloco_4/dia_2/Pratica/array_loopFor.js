@@ -28,28 +28,25 @@ if(numbers[numbers.length - 1] > 20){
   console.log('Elemento final do array possui um valor maior que 20')
 }else{
   console.log('Elemento final do array possui um valor menor ou igual a 20')
-}
+} 
 
-/* 5.Utilizando for , descubra qual o maior valor contido no array e imprima-o;
+// 5.Utilizando for , descubra qual o maior valor contido no array e imprima-o;
 let maiorNumeroPontos = 0
 
-for(let indexLeitura = 0; indexLeitura < numbers.length; indexLeitura += 1) {
+for(let indexNumero = 0; indexNumero < numbers.length; indexNumero += 1) {
 
   for(let indexComparacao = 0; indexComparacao < numbers.length; indexComparacao += 1) {
-    if(numbers[indexComparacao]  < numbers[indexLeitura]) {
+    if(numbers[indexNumero] >= numbers[indexComparacao]){
       maiorNumeroPontos += 1
+      if(maiorNumeroPontos === numbers.length){
+        console.log('O maior numero encontrado é o: ' + numbers[indexNumero])
+      }
     }
-
-    if(maiorNumeroPontos === numbers.length){
-      console.log('O maior numero encontrado é o: ' + numbers[indexLeitura])
-    }
-
-    console.log('O numero:' + numbers[indexLeitura] + 'fez' + maiorNumeroPontos + 'pontos')
   }
 
   maiorNumeroPontos = 0
 }
-*/
+
 
 // 6. Descubra quantos valores ímpares existem no array e imprima o resultado. Caso não exista nenhum, imprima a mensagem: "nenhum valor ímpar encontrado"
 let quantosImpares = 0;
@@ -61,6 +58,8 @@ for(let indexMenor = 0; indexMenor < numbers.length; indexMenor += 1) {
 } 
 
 console.log('Temos ' + quantosImpares + ' numeros impares')
+
+// 7.
 
 // 8. Utilizando for , crie uma array que vá de 1 até 25 e imprima o resultado
 let newArray = []
