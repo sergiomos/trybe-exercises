@@ -8,7 +8,7 @@ for(let index = 0; index < n; index += 1) {
 
 console.log('Primeiro Desafio')
 
-for(let index = 0; index < n; index += 1) {
+for(let indexSquare = 0; indexSquare < n; indexSquare += 1) {
   console.log(square.join(''));
 }
 
@@ -18,8 +18,24 @@ console.log('Segundo Desafio')
 
 let triangle = []
 
-for(let index = 0; index < n; index += 1) {
+for(let indexTriangle = 0; indexTriangle < n; indexTriangle += 1) {
   triangle.push('*');
   console.log(triangle.join(''));
 }
+
+// Agora inverta o lado do triângulo.
+
+console.log('Terceiro Desafio')
+
+triangle = []
+console.log(triangle.join(''));
+
+for(let indexTriangleInverted = 0; indexTriangleInverted < n; indexTriangleInverted += 1) {
+  triangle.push('*');
+  for(let i = 0; i < n; i++){
+    triangle[n - i] = '';
+    console.log(triangle.join(''));
+  }
+}
+
 
