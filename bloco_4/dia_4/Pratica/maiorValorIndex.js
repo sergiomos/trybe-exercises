@@ -1,6 +1,6 @@
 let array = [2, 3, 6, 7, 10, 1];
 
-function encontrarMaiorValor() {
+function encontrarMenorValor() {
   for(let valor in array){
     let pontos = 0
 
@@ -16,9 +16,9 @@ function encontrarMaiorValor() {
   }
 }
 
-function indexMaiorValor(){
-  let maiorValor = encontrarMaiorValor();
+function indexMenorValor(){
+  let maiorValor = encontrarMenorValor();
   return array.indexOf(maiorValor)
 }
 
-console.log(indexMaiorValor());
+console.log(indexMenorValor());
