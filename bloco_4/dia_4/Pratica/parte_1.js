@@ -6,3 +6,4 @@ let info = {
 
 console.log('Seja bem-vinda,' + ' ' + info.personagem)
 
+info['recorrente'] = 'Sim'
