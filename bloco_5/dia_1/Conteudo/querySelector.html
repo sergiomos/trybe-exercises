@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .paragraph {
+        font-size: 18px;
+        color: #252525;
+        font-weight: 200;
+      }
+    </style>
+  </head>
+  <body>
+    <h2 id="page-title">Título</h2>
+    <p id="paragraph" class="paragraph">Dê uma cor para este parágrafo!</p>
+    <h4 id="subtitle">Subtítulo</h4>
+    <p id="second-paragraph" class="paragraph">Segundo parágrafo!</p>
+
+    <script>
+      let paragraph = document.querySelector("#paragraph");
+      paragraph.style.color = "red";
+
+      let heading = document.querySelector('#page-title');
+      heading.innerText = 'Frozen';
+
+      let secondParagraph = document.querySelector("#second-paragraph");
+      secondParagraph.style.fontSize = '30px';
+
+      let subtitle = document.querySelector('#subtitle');
+      subtitle.innerText = "The best children's film that is not children's";
+
+      let paragraphs = document.querySelectorAll('.paragraph');
+      paragraphs[0].style.color = 'blue';
+
+      let subtitleByTag = document.querySelectorAll('h4')[0];
+      subtitleByTag.innerText = 'SeXtOu'
+
+    </script>
+  </body>
+</html>
