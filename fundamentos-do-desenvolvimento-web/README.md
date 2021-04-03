@@ -61,7 +61,7 @@ No primeiro módulo, iniciamos estudando toda a base do desenvolvimento web, com
 - Loop for
 - Logica de programação e algoritmos
 - Funções
-- [Projeto Final: Playground Functions]()
+- [Projeto Final: Playground Functions](https://github.com/sergiomos/Playground-functions)
 
 ### JavaScript: DOM, Eventos, e WebStorage
 
@@ -69,8 +69,8 @@ No primeiro módulo, iniciamos estudando toda a base do desenvolvimento web, com
 - Seletores DOM
 - Manipular elementos através de eventos
 - Salvar, editar e excluir valores do localStorage
-- [Projeto Final: Pixel Art](https://github.com/sergiomos/sergiomos.github.io/tree/main/pixel-art)
-- [Projeto Final: Todo List](https://github.com/sergiomos/sergiomos.github.io/tree/main/todo-list)
+- [Projeto Final: Pixel Art](https://github.com/sergiomos/pixel-art-project)
+- [Projeto Final: Todo List](https://github.com/sergiomos/todo-list-project)
 
 ### HTML e CSS: Forms, Flexbox e Responsivo
 
@@ -78,7 +78,7 @@ No primeiro módulo, iniciamos estudando toda a base do desenvolvimento web, com
 - Bibliotecas JS e Frameworks CSS
 - Posicionamento de elementos com flexbox
 - CSS responsivo - Mobile First
-- [Projeto Final: Página inicial do Facebook]()
+- [Projeto Final: Página inicial do Facebook](https://github.com/sergiomos/facebook-singup-project)
 
 ### Introdução à JavaScript ES6 e Teste Unitários
 
@@ -87,7 +87,7 @@ No primeiro módulo, iniciamos estudando toda a base do desenvolvimento web, com
 - Arrow Functions
 - Objects
 - Testes Unitários com Assert
-- [Projeto Final: Unit Test]()
+- [Projeto Final: Unit Test](https://github.com/sergiomos/js-unit-test-project)
 
 ### Higher Order Functions do ES6
 
