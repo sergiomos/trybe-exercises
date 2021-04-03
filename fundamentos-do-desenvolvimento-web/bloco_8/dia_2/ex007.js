@@ -75,5 +75,5 @@ function authorUnique() {
 
   return repetedYearsList.some((year) => year.length > 1)
 }
-
+books.forEach((book) => console.log(book.author))
 assert.strictEqual(authorUnique(), expectedResult);
