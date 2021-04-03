@@ -1,6 +1,6 @@
-<h1 aling="center">
-  <img src="https://ik.imagekit.io/sergiomos/trybe_oxSPVAAygK.jpeg">
-</h1>
+#
+
+![Banner da Trybe](https://ik.imagekit.io/sergiomos/trybe_oxSPVAAygK.jpeg "Trybe")
 
 [LinkedIn](https://www.linkedin.com/in/sergiomos/)
 [Instagram](https://www.instagram.com/sergio_mdo/)
