@@ -9,7 +9,7 @@
 
 ## Sobre
 
-Diretório criado para curso de Desenvolvimento Web da **Trybe**, para que possamos compartilhar e exibir os conteudos praticados.
+Diretório criado para curso de Desenvolvimento Web FullStack da **Trybe**, para que possamos compartilhar e exibir os conteudos praticados.
 
 ## A Trybe
 
