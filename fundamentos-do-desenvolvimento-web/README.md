@@ -32,7 +32,7 @@ No primeiro módulo, iniciamos estudando toda a base do desenvolvimento web, com
 - O que é o terminal?
 - Comandos executados no Bash.
 
-### Git, GitHub e Internet
+### Bloco 2 : Git, GitHub e Internet
 
 - O que é o Git ?
 - Qual a principal diferença para os outros VCS's ?
@@ -42,7 +42,7 @@ No primeiro módulo, iniciamos estudando toda a base do desenvolvimento web, com
 - Como subir seu repositório local para o GitHub ?
 - O que é Branch , Merge , Commit ?
 
-### Introdução à HTML e CSS
+### Bloco 3 : Introdução à HTML e CSS
 
 - Principais tags HTML
 - Estilização com CSS
@@ -50,7 +50,7 @@ No primeiro módulo, iniciamos estudando toda a base do desenvolvimento web, com
 - HTML semântico
 - [Projeto Final: Lessons Learned](https://github.com/sergiomos/project-lessons-learned)
 
-### Introdução à JavaScript e Lógica de Programação
+### Bloco 4 : Introdução à JavaScript e Lógica de Programação
 
 - Variáveis e constantes
 - Tipos primitivos
@@ -63,7 +63,7 @@ No primeiro módulo, iniciamos estudando toda a base do desenvolvimento web, com
 - Funções
 - [Projeto Final: Playground Functions](https://github.com/sergiomos/Playground-functions)
 
-### JavaScript: DOM, Eventos, e WebStorage
+### Bloco 5 : JavaScript: DOM, Eventos, e WebStorage
 
 - Manipular elementos HTML via JavaScript
 - Seletores DOM
@@ -72,7 +72,7 @@ No primeiro módulo, iniciamos estudando toda a base do desenvolvimento web, com
 - [Projeto Final: Pixel Art](https://github.com/sergiomos/pixel-art-project)
 - [Projeto Final: Todo List](https://github.com/sergiomos/todo-list-project)
 
-### HTML e CSS: Forms, Flexbox e Responsivo
+### Bloco 6 : HTML e CSS: Forms, Flexbox e Responsivo
 
 - Tags avançadas do HTML
 - Bibliotecas JS e Frameworks CSS
@@ -80,7 +80,7 @@ No primeiro módulo, iniciamos estudando toda a base do desenvolvimento web, com
 - CSS responsivo - Mobile First
 - [Projeto Final: Página inicial do Facebook](https://github.com/sergiomos/facebook-singup-project)
 
-### Introdução à JavaScript ES6 e Teste Unitários
+### Bloco 7 : Introdução à JavaScript ES6 e Teste Unitários
 
 - Let e Constantes
 - Template Literals
@@ -89,7 +89,7 @@ No primeiro módulo, iniciamos estudando toda a base do desenvolvimento web, com
 - Testes Unitários com Assert
 - [Projeto Final: Unit Test](https://github.com/sergiomos/js-unit-test-project)
 
-### Higher Order Functions do ES6
+### Bloco 8 : Higher Order Functions do ES6
 
 - Reutilizar lógicas de códigos
 - Currying
