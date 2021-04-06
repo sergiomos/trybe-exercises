@@ -42,4 +42,11 @@ const sumNumbers = numbers.reduce(getSum, 10);
 console.log(sumNumbers); // 123
 
 // Exercicio de fixação
+const numbers = [50, 85, -30, 3, 15];
 
+const getBigger = (bigger, number) => ((bigger > number) ? bigger : number);
+const getLower = (lower, number) => ((lower < number) ? lower : number);
+
+const bigger = numbers.reduce(getBigger);
+const lower = numbers.reduce(getLower)
+console.log(bigger, lower); // 85
