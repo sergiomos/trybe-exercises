@@ -16,3 +16,19 @@ console.log(x); // 1
 console.log(y); // 2
 console.log(z); // 0
 
+// Exercicios de fixação
+const getNationality = ({ firstName, nationality = 'Brazilian'}) => `${firstName} is ${nationality}`;
+
+const person = {
+    firstName: 'João',
+    lastName: 'Jr II',
+};
+
+const otherPerson = {
+    firstName: 'Ivan',
+    lastName: 'Ivanovich',
+    nationality: 'Russian',
+};
+
+console.log(getNationality(otherPerson)); // Ivan is Russian
+console.log(getNationality(person));
