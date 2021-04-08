@@ -94,3 +94,8 @@ No primeiro módulo, iniciamos estudando toda a base do desenvolvimento web, com
 - Reutilizar lógicas de códigos
 - Currying
 - HFO's: forEach, find, some, every, sort, map, filter e reduce
+- Spread Operator
+- Destructuring
+- Default Paramters
+- Object property shorthand
+- Rest Paramter
