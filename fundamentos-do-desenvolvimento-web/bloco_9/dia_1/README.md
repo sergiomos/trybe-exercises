@@ -16,11 +16,9 @@
 
 #### Exercicios
 
-1. Dado o código abaixo, complete-o de forma que seja impressa a área dos 3 retângulos. O código deve retornar em sequência 2 , 15 e 54.
-2. Crie uma função sum que dado um número variável de elementos retorna a soma desses elementos
-3. Escreva a função personLikes , que dado um objeto de parâmetro que representa uma pessoa, retorna todos os gostos daquela pessoa, conforme mostrado abaixo.
-4. Escreva uma função filterPeople que, dada uma lista de pessoas, retorna todas as pessoas australianas que nasceram no século 20.
-5. Escreva a função swap , que dado um array de 3 elementos, retorna um novo array com o primeiro e terceiro elementos trocados. Detalhe: você precisa fazer essa função gastando 1 linha só.
-6. Suponha que você esteja lidando com carros e, da forma como o problema lhe foi entregue, cada carro é modelado como um array. Porém, essa modelagem está baixo nível. Cria uma função toObject que, dada uma lista, retorna um objeto representando o carro.
-7. Escreva uma função shipLength que, dado um objeto representando um navio, retorna o comprimento dele, mostrando também a devida unidade de comprimento.
-8. Escreva uma função greet que, dado o nome de uma pessoa, retorna uma mensagem de cumprimento.
+1. Dado o código abaixo, qual a ordem de finalização de execução das linhas comentadas?
+2. Agora, dado o código abaixo, qual a ordem de finalização de execução das linhas comentadas?
+3. A função `getPlanet` abaixo imprime o planeta Marte de forma síncrona. Modifique `getPlanet` , de forma que Marte seja impresso assincronamente, depois de 4 segundos.
+4. Suponha que você precise simular uma mensagem enviada do robô **Curiosity** de Marte para a Terra. O **Curiosity** envia para a Terra a temperatura atual em Marte, gastando um tempo variável de até 5 segundos para que termine o envio. Crie a função `sendMarsTemperature` , que imprime a temperatura em Marte.
+5. Agora que você fez a função que envia a temperatura de Marte, suponha que você consiga enviar para o robô **Curiosity** o que você deseja fazer, uma vez obtida com sucesso a temperatura em Marte. Logo, adicione na função `sendMarsTemperature` um `callback` que contenha as ações a serem tomadas em cima da temperatura.
+6. Por fim, o robô **Curiosity** tem uma taxa de sucesso de envio de mensagem de 60% devido ao fato de o robô já estar muito ocupado com outras operações. Logo, adicione na função `sendMarsTemperature` um outro `callback` que contenha as ações a serem tomadas em caso de falha.
