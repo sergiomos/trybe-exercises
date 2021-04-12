@@ -100,3 +100,8 @@ No primeiro módulo, iniciamos estudando toda a base do desenvolvimento web, com
 - Object property shorthand
 - Rest Paramter
 - [Projeto Final: Zoo Function](https://github.com/sergiomos/zoo-functions-project)
+
+### Bloco 9 : JavaScript Assíncrono e Promises
+
+- Operações Assíncronas
+- Cakbacks

@@ -7,17 +7,12 @@
 
 ---
 
-## Fundamentos do Desenvolvimento Web: Dia 8.5
+## Fundamentos do Desenvolvimento Web: Dia 9.1
 
-### JavaScript ES6 - spread operator, parâmetro rest, destructuring
+### JavaScript Assíncrono e Promises
 
-- spread operator
-- parâmetro rest
-- object destructuring
-- array destructuring
-- default destructuring
-- abbreviation object literal
-- default params
+- Operações Assíncronas
+- Calbacks
 
 #### Exercicios
 
