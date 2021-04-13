@@ -31,3 +31,4 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [HTML e CSS: Forms, Flexbox e Responsivo](/fundamentos-do-desenvolvimento-web/bloco_6)
 - [Introdução à JavaScript ES6 e Teste Unitários](/fundamentos-do-desenvolvimento-web/bloco_7)
 - [Higher Order Functions do ES6](/fundamentos-do-desenvolvimento-web/bloco_8)
+- [JavaScript Assíncrono e Promises](/fundamentos-do-desenvolvimento-web/bloco_9)

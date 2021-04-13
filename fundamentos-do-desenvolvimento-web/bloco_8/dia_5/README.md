@@ -7,7 +7,7 @@
 
 ---
 
-## Fundamentos do Desenvolvimento Web: Dia 8.4
+## Fundamentos do Desenvolvimento Web: Dia 8.5
 
 ### JavaScript ES6 - spread operator, parâmetro rest, destructuring
 
