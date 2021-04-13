@@ -105,3 +105,5 @@ No primeiro módulo, iniciamos estudando toda a base do desenvolvimento web, com
 
 - Operações Assíncronas
 - Cakbacks
+- Promises
+- Integrações com API's
